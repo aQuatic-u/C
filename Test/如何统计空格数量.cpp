@@ -6,5 +6,6 @@ int main() {
     char b,y,z,a;
     cin >> b >> y >> z >> a;
     cout << b << y << z << a;
+    system("pause");
     return 0;
 }
